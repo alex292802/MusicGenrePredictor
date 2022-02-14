@@ -1,6 +1,5 @@
 Projet SData / Documentation
 
-## Exercice 1 : 
 
 ### Commande pour lancer la phase d'apprentissage et évaluer un testset
 
@@ -17,10 +16,3 @@ python training.py
 python results.py
 ```
 
-## Exercice 2 :
-
-### Commande pour lancer la phase d'apprentissage et évaluer un testset
-
-``` 
-python exo2/training2.py
-```
