@@ -5,7 +5,7 @@ In this part we use the files Spotify_dataset_train.csv and Spotify_dataset_test
 The csv file, for training, contains a dataset of 25492 songs belonging to one of those 23 musical genres :
 [r&b, rap, classical, salsa, edm, hip hop, trap, techno, jazz, metal, country, rock, reggae, latin, disco, soul, chanson, blues, dance, electro, punk, folk, pop].
 
-After using classifiers such as Random Forest, LDA, QDA, naive Bayes or SVM predict the musical genre of the 2833 songs of test dataset, we decided to use a neural network.
+After using classifiers such as Random Forest, LDA, QDA, naive Bayes or SVM in order to predict the musical genre of the 2833 songs of test dataset, we decided to use a neural network.
 To launch this neural network, you need to execute the file main.py.
 
 ## The prediction will only be based on the metadata provided by the spotify API, not the audio data
